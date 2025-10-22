@@ -21,7 +21,7 @@ JetBrains IDE plugin integrating large language models for code completion, inli
 Reinforcement learning environment for algorithmic trading — fully compatible with OpenAI Gym and focused on reward design experimentation.  
 
 🔬 **[DataIntelligenceApplications](https://github.com/damiano1996/DataIntelligenceApplications)**  
-Academic and research-oriented repository.  
+Academic and research-oriented repository. Intelligent algorithms for dynamic pricing and advertising.
 
 🧩 **[XChange Contribution](https://github.com/knowm/XChange)**  
 Extended the Bybit REST client integration for the open-source crypto exchange library **XChange**.
