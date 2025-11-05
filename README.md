@@ -31,7 +31,6 @@ I love **automation**, **scalability**, and **open collaboration**.
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](#)
 
 ### 📊 Data & Observability
-[![Dremio](https://custom-icon-badges.demolab.com/badge/Dremio-1B74B9?logo=dremio&logoColor=white)](#)
 [![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-005F87?style=flat&logo=apache&logoColor=white)](#)
 [![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](#)
